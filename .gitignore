@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# etc
+/bin
+pyvenv.cfg
+pip-selfcheck.json
